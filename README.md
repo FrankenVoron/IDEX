@@ -16,6 +16,6 @@ General features:
 
 -Possibly some sheet metal to make XY joints stiffer and make it easier to secure belt
 
--No ETA, just a random fun project!
+-No ETA, just a random fun project! Started fall 2020
 
 ![image](https://user-images.githubusercontent.com/11861478/123529549-5e0dea80-d6bf-11eb-86b3-936369a76c03.png)
