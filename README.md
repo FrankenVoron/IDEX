@@ -19,3 +19,19 @@ General features:
 -No ETA, just a random fun project! Started fall 2020
 
 ![image](https://user-images.githubusercontent.com/11861478/123529549-5e0dea80-d6bf-11eb-86b3-936369a76c03.png)
+
+Belt path (red lines show two y axis belt locations)
+
+![image](https://user-images.githubusercontent.com/11861478/123529683-c6110080-d6c0-11eb-9d99-0d092793409a.png)
+
+Location of Y belt (red circled part secured to XY joint)
+
+![image](https://user-images.githubusercontent.com/11861478/123529692-e04ade80-d6c0-11eb-89f4-db27764862d5.png)
+
+3 Piece XY joint with toothed path for securing GT2 belt:
+
+![image](https://user-images.githubusercontent.com/11861478/123529725-230cb680-d6c1-11eb-827b-00a7a65c53ea.png)
+
+Belt path location:
+
+![image](https://user-images.githubusercontent.com/11861478/123529731-33bd2c80-d6c1-11eb-892e-90a09d37c957.png)
