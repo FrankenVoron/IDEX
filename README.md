@@ -35,3 +35,8 @@ Location of Y belt (red circled part secured to XY joint)
 Belt path location:
 
 ![image](https://user-images.githubusercontent.com/11861478/123529731-33bd2c80-d6c1-11eb-892e-90a09d37c957.png)
+
+Front idler Y belt toothed idler location:
+
+![image](https://user-images.githubusercontent.com/11861478/123529742-5cddbd00-d6c1-11eb-9c16-b07fed503d59.png)
+
