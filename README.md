@@ -12,7 +12,7 @@ General features:
 
 -full 4040 frame
 
--CoreXX + YY (which doesn't exist yet), existing CoreXY belts are used for X1/X2 for toolheads. Two Y belts with two Y motors added for moving X axis, stacked just below the existing lower belt path
+-Modified Markforgedish kinematics, existing CoreXY belts are used for X1/X2 for toolheads. Two Y belts with two Y motors added for moving X axis, stacked just below the existing lower belt path
 
 -Possibly some sheet metal to make XY joints stiffer and make it easier to secure belt
 
