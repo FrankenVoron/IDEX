@@ -24,6 +24,9 @@ Belt path (red lines show two y axis belt locations)
 
 ![image](https://user-images.githubusercontent.com/11861478/123529683-c6110080-d6c0-11eb-9d99-0d092793409a.png)
 
+https://pbs.twimg.com/media/E6Xy8pVXMAIQQBy?format=png&name=900x900![image](https://user-images.githubusercontent.com/11861478/127901061-a6186a27-d845-4426-88a4-7f7046755f3a.png)
+
+
 Location of Y belt (red circled part secured to XY joint)
 
 ![image](https://user-images.githubusercontent.com/11861478/123529692-e04ade80-d6c0-11eb-89f4-db27764862d5.png)
